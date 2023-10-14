@@ -4,8 +4,8 @@ namespace DAO;
 
 use OOP\SinhVien;
 
-include_once "ConnectSQL/ConnectSQL.php";
-include_once "OOP/SinhVien.php";
+//include "ConnectSQL/ConnectSQL.php";
+//include "OOP/SinhVien.php";
 
 class SinhVienDAO
 {
